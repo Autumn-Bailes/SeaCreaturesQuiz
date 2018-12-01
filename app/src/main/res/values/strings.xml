@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Sea Creatures Quiz</string>
+    <string name="edit_text_answer">Answer</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Try Again</string>
+
+    <string name="image1">sea_turtle</string>
+    <string name="image2">seal</string>
+    <string name="image3">crab</string>
+    <string name="image4">dolphin</string>
+    <string name="image5">orca</string>
+    <string name="image6">starfish</string>
+    <string name="image7">shark</string>
+    <string name="image8">sea_anemone</string>
+    <string name="image9">lion_fish</string>
+    <string name="image10">jellyfish</string>
+
+    <string name="question1">1. Which species of sea turtle is the largest of the seven known species?</string>
+    <string name="answer_green">Green</string>
+    <string name="answer_hawksbill">Hawksbill</string>
+    <string name="answer_leatherback">Leatherback</string>
+    <string name="answer_flatback">Flatback</string>
+
+    <string name="question2">2. Where do seals give birth?</string>
+    <string name="answer_ocean">In the ocean</string>
+    <string name="answer_cave">In a cave</string>
+    <string name="answer_beach">On the beach</string>
+    <string name="answer_iceberg">On an iceberg</string>
+
+    <string name="question3">3. How many species of crabs exist?</string>
+    <string name="answer_7">Over 7 species</string>
+    <string name="answer_24">Over 24 species</string>
+    <string name="answer_350">Over 350 species</string>
+    <string name="answer_4500">Over 4500 species</string>
+
+    <string name="question4">4. Are dolphins herbivores, carnivores or omnivores?</string>
+    <string name="answer_herbivores">Herbivores</string>
+    <string name="answer_carnivores">Carnivores</string>
+    <string name="answer_omnivores">Omnivores</string>
+
+    <string name="question5">5. Orcas are the largest member of the&#8230;</string>
+    <string name="answer_crustacean">Crustacean family</string>
+    <string name="answer_dolphin">Dolphin Family</string>
+    <string name="answer_shark">Shark Family</string>
+    <string name="answer_coral">Coral Family</string>
+
+    <string name="question6">6. Where are the eyes on a starfish located?</string>
+    <string name="answer_top">On the top of the arms</string>
+    <string name="answer_bottom">On the bottom of the arms</string>
+    <string name="answer_tips">On the tips of the arms</string>
+    <string name="answer_mouth">Around the mouth</string>
+
+    <string name="question7">7. Do sharks sleep?</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+
+    <string name="question8">8. How do sea anemones attack?</string>
+    <string name="answer_toxins">They let out toxins in the water</string>
+    <string name="answer_sting">They sting with their tentacles</string>
+    <string name="answer_strangle">They strangle with their tentacles</string>
+    <string name="answer_quick">They snap open and closed very quickly</string>
+
+    <string name="question9">9. What is the average lifespan of a lionfish?</string>
+    <string name="answer_5">5 Years</string>
+    <string name="answer_10">10 Years</string>
+    <string name="answer_15">15 Years</string>
+    <string name="answer_20">20 Years</string>
+
+    <string name="question10">10. Jellyfish have no&#8230;</string>
+    <string name="answer_brain">Brain</string>
+    <string name="answer_eyes">Eyes</string>
+    <string name="answer_tentacles">Tentacles</string>
+    <string name="answer_heart">Heart</string>
+    <string name="answer_defenses">Defenses</string>
+    <string name="answer_bones">Bones</string>
+</resources>
